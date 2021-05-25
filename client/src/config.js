@@ -1,0 +1,1 @@
+export const exhange_rates_access_key = `d974bcbf58c7aaac63f39840c8828a53`;
